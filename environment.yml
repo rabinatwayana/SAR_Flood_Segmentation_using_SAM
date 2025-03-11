@@ -1,0 +1,20 @@
+name: sam_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - ipykernel
+  - matplotlib
+  - onnx
+  - onnxruntime
+  - opencv
+  - pycocotools
+  - pytorch
+  - torchvision
+  - tqdm
+  - scikit-image
+  - albumentations
+  - requests
+  - rasterio
+# prefix: /Users/rabinatwayana/Rabina/anaconda3/envs/sam_env
